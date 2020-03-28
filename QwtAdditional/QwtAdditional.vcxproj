@@ -97,8 +97,6 @@
     <ClInclude Include="MyZoomer.h" />
     <ClInclude Include="qwtadditional_global.h" />
   </ItemGroup>
-  <ItemGroup>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
     <Import Project="$(QtMsBuild)\qt.targets" />

@@ -12,7 +12,8 @@ MyZoomer::MyZoomer(QWidget *canvas):QwtPlotZoomer(canvas)
 
 QwtText MyZoomer::trackerTextF(const QPointF &pos) const
 {
-	QColor bg{ 0,0,0,0 };
+	QColor bg{Qt::white};
+	bg.setAlpha(255);
 	QwtText text{ QwtPlotZoomer::trackerTextF(pos) };
 	text.setBackgroundBrush(QBrush(bg));
 	return text;
