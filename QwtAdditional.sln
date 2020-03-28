@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QwtAdditional", "QwtAdditional\QwtAdditional.vcxproj", "{3B5C0FFF-7E63-42A5-A4F8-8D00371A8CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B5C0FFF-7E63-42A5-A4F8-8D00371A8CF6}.Debug|x64.ActiveCfg = Debug|x64
+		{3B5C0FFF-7E63-42A5-A4F8-8D00371A8CF6}.Debug|x64.Build.0 = Debug|x64
+		{3B5C0FFF-7E63-42A5-A4F8-8D00371A8CF6}.Release|x64.ActiveCfg = Release|x64
+		{3B5C0FFF-7E63-42A5-A4F8-8D00371A8CF6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B16E79-D01D-4E8D-B97A-DF64A5B37E7B}
+	EndGlobalSection
+EndGlobal
